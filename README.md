@@ -10,3 +10,5 @@ Write your
 **user_id**
 
 to file *secrets*
+
+more info here: https://github.com/fut33v/vk_commit_photo
